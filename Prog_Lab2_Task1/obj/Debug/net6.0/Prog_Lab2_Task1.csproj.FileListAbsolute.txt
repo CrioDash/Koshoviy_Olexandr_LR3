@@ -1,0 +1,15 @@
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\bin\Debug\net6.0\Prog_Lab2_Task1.exe
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\bin\Debug\net6.0\Prog_Lab2_Task1.deps.json
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\bin\Debug\net6.0\Prog_Lab2_Task1.runtimeconfig.json
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\bin\Debug\net6.0\Prog_Lab2_Task1.dll
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\bin\Debug\net6.0\Prog_Lab2_Task1.pdb
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.csproj.AssemblyReference.cache
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.AssemblyInfoInputs.cache
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.AssemblyInfo.cs
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.csproj.CoreCompileInputs.cache
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.dll
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\refint\Prog_Lab2_Task1.dll
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.pdb
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\Prog_Lab2_Task1.genruntimeconfig.cache
+D:\C# Projects\Prog_Lab2\Prog_Lab2_Task1\obj\Debug\net6.0\ref\Prog_Lab2_Task1.dll
